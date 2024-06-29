@@ -1,0 +1,21 @@
+[
+  { "id": 1, "title": "Iphone 15", "category": "Elektronik", "price": 2000, "quantity": 1, "inBasket": false },
+  { "id": 2, "title": "Iphone 14", "category": "Elektronik", "price": 1500, "quantity": 15, "inBasket": false },
+  { "id": 3,"title": "Masa","category": "Ev","price": 500,"quantity": 20,"inBasket": false },
+  { "id": 4, "title": "Koltuk Takımı", "category": "Ev", "price": 1000, "quantity": 20, "inBasket": false },
+  { "id": 5, "title": "Kasa Gtx 1650 i7", "category": "Elektronik", "price": 1000, "quantity": 20, "inBasket": false },
+  { "id": 6, "title": "Samsun Galaxy s23 Ultra", "category": "Elektronik", "price": 1800, "quantity": 20, "inBasket": false },
+  { "id": 7, "title": "LG 32' Oyuncu olmayan monitör", "category": "Elektronik", "price": 1200, "quantity": 20, "inBasket": false },
+  { "id": 8, "title": "Masa 2", "category": "Ev","price": 1000,"quantity": 20,"inBasket": false },
+  { "id": 9, "title": "Koltuk Takımı", "category": "Ev", "price": 2500, "quantity": 20, "inBasket": false },
+  { "id": 10, "title": "Kasa Gtx 1650 i7 2", "category": "Elektronik", "price": 1020, "quantity": 20, "inBasket": false },
+  { "id": 11, "title": "Samsun Galaxy s23 Ultra +", "category": "Elektronik", "price": 2000, "quantity": 20, "inBasket": false },
+  { "id": 12, "title": "LG 32' Oyuncu olmayan monitör 2", "category": "Elektronik", "price": 2030, "quantity": 20, "inBasket": false },
+  { "id": 13, "title": "LG 32' Oyuncu olmayan monitör 2", "category": "Elektronik", "price": 2030, "quantity": 20, "inBasket": false },
+  { "id": 14, "title": "LG 32' Oyuncu olmayan monitör 2", "category": "Elektronik", "price": 2030, "quantity": 20, "inBasket": false },
+  { "id": 15, "title": "LG 32' Oyuncu olmayan monitör 2", "category": "Elektronik", "price": 2030, "quantity": 20, "inBasket": false },
+  { "id": 16, "title": "LG 32' Oyuncu olmayan monitör 2", "category": "Elektronik", "price": 2030, "quantity": 20, "inBasket": false },
+  { "id": 17, "title": "LG 32' Oyuncu olmayan monitör 2", "category": "Elektronik", "price": 2030, "quantity": 20, "inBasket": false },
+  { "id": 18, "title": "LG 32' Oyuncu olmayan monitör 2", "category": "Elektronik", "price": 2030, "quantity": 20, "inBasket": false }
+]
+ 
